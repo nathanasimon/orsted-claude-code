@@ -52,7 +52,7 @@ After installation:
 
 3. **Fill in `project_info.md`** with your project details
 
-4. **Start working** — ORSTED will automatically create `.orsted/` folders in directories where you work
+4. **Start working** — Orsted will automatically create `.orsted/` folders in directories where you work
 
 ## How It Works
 

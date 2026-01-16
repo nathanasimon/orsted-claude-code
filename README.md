@@ -1,4 +1,4 @@
-# ORSTED for Claude Code
+# Orsted for Claude Code
 
 **Persistent context system for Claude Code** — automatically tracks what you do, why you did it, and what failed.
 
@@ -21,7 +21,7 @@ claude --plugin-dir ./orsted
 
 ## What It Does
 
-ORSTED creates a `.orsted/` folder in each directory where you work, containing:
+Orsted creates a `.orsted/` folder in each directory where you work, containing:
 
 - **`claude.md`** — Working memory (current focus, work log, decisions)
 - **`project_info.md`** — Project overview (tech stack, structure, conventions)
