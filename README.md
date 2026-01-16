@@ -7,7 +7,7 @@
 ### Option 1: Local Install
 
 ```bash
-git clone https://github.com/yourusername/orsted.git
+git clone https://github.com/nathanasimon/orsted.git
 cd orsted/claude-code
 claude --plugin-dir ./orsted
 ```
@@ -15,7 +15,7 @@ claude --plugin-dir ./orsted
 ### Option 2: From Marketplace (when published)
 
 ```bash
-/plugin marketplace add yourusername/orsted-marketplace
+/plugin marketplace add nathanasimon/orsted-marketplace
 /plugin install orsted@orsted-marketplace
 ```
 

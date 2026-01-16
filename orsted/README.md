@@ -31,7 +31,7 @@ You: [can type next prompt immediately]
 ### Option 1: Local install (testing)
 
 ```bash
-git clone https://github.com/yourusername/orsted.git
+git clone https://github.com/nathanasimon/orsted.git
 claude --plugin-dir ./orsted
 ```
 
