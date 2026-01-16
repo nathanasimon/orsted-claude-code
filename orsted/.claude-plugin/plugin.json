@@ -1,0 +1,11 @@
+{
+  "name": "orsted",
+  "description": "CLAUDE.md that learns from every session. Automatically keeps a full record of everything Claude does — what was done, why, what failed, what decisions were made. Every session makes Claude smarter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nathan Simon"
+  },
+  "homepage": "https://github.com/nathanasimon/orsted-marketplace",
+  "repository": "https://github.com/nathanasimon/orsted-marketplace.git",
+  "license": "MIT"
+}
